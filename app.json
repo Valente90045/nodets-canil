@@ -1,0 +1,7 @@
+{
+  "name": "canil",
+  "description": "Canil é um app para adoção de Pets.",
+  "repository": "https://github.com/Valente90045/nodets-canil",
+  "logo": "https://raw.githubusercontent.com/Valente90045/nodets-canil/master/.github/img/favicon.png",
+  "keywords": ["node", "express"]
+}
